@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+my first repository.  This sentence is my first modification.
